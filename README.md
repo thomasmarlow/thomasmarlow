@@ -10,14 +10,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-### Hi 👋
+### Hi! 👋
 
 ***
 
 #### About me
 
 - Backend Software Engineer from Buenos Aires, Argentina (:
-- Technical Architect at Tach
+- Technical Architect at Tach Argentina
+- Devote [Aikido](https://www.youtube.com/watch?v=ehFAeG1wK_o) practictioner
 
 #### My go-to stack
 
