@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Software Engineer from Buenos Aires, Argentina (:
 - Focused on Backend development
 - Technical Architect at Tach Argentina
-- Devote [Aikido](https://www.youtube.com/watch?v=ehFAeG1wK_o) practictioner
+- Devote [Aikido](https://www.youtube.com/watch?v=ehFAeG1wK_o) practitioner
 
 #### My go-to stack
 
