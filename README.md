@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 #### About me
 
-- Backend Software Engineer from Buenos Aires, Argentina (:
+- Software Engineer from Buenos Aires, Argentina (:
+- Focused on Backend development
 - Technical Architect at Tach Argentina
 - Devote [Aikido](https://www.youtube.com/watch?v=ehFAeG1wK_o) practictioner
 
