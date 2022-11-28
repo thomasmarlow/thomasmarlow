@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Moleculer.js](https://img.shields.io/badge/moleculer.js-purple?style=for-the-badge&logo=moleculer)
 
 #### I have some experience using
 
@@ -62,5 +63,5 @@ Here are some ideas to get you started:
 
 ***
 
-_(Got these badges [here](https://github.com/alexandresanlim/Badges4-README.md-Profile))_
+_(Got these badges [here](https://github.com/alexandresanlim/Badges4-README.md-Profile) and [here](https://shields.io/))_
 
