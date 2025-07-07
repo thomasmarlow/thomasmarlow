@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
-Currently diving into React.
-
 ***
 
 _(Got these badges [here](https://github.com/alexandresanlim/Badges4-README.md-Profile) and [here](https://shields.io/))_
